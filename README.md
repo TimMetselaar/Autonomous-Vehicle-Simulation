@@ -1,3 +1,2 @@
 # Autonomous-Vehicle-Simulation
-This repository contains a collection of projects that I did during a course to further cement my knowledge of Machine Learning and Python programming
-
+This repository contains the code for an autonomous vehicle simulation developed using SciKit-Learn. Please note that this code relies on the car simulation package provided by the Make IT Work lectures, which is not included in this repository. Here, you'll find the implementation and setup for an autonomous vehicle control system using machine learning techniques.
